@@ -39,3 +39,6 @@ https://ppn.snovvcrash.rocks/
 
 #ULTIMATE GUIDE TO NMAP:
 https://hacklido.com/blog/464-the-ultimate-guide-to-port-scanning-using-nmap-nmap-notes
+
+#AAD INTERNALS DOCUMENTATION:
+https://aadinternals.com/aadinternals/
