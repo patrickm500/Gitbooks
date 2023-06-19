@@ -19,6 +19,12 @@ https://ired.team/
 #SECURITY & SYSTEMS ADMINISTRATION:
 https://burmat.gitbook.io/
 
+#CHEAT SHEETS:
+https://cheats.philkeeble.com/
+
+#RED TEAM:
+https://www.vincentyiu.com/
+
 #ROWBOT'S PEN TEST NOTES:
 https://guide.offsecnewbie.com/
 
